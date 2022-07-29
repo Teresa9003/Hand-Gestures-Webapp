@@ -1,0 +1,35 @@
+body
+{
+  color: white;
+  background: #4feaff;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #snapshot 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+#gesture1 , #gesture2
+{
+  font-size:48px;
+}
+.heading{
+  background-color: rgb(7, 247, 7);
+  font-size: 30px;
+  letter-spacing: 10px;
+}
+.hand_gestures{
+    font-size: 30px;
+}
